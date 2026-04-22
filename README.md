@@ -29,8 +29,8 @@
 
 ### 🚀 Featured Work (The Modern Collection)
 
- **[django-faktory-outbox](https://github.com/addonol/django-faktory-outbox)** – **Production-grade Python Package** implementing the **Transactional Outbox Pattern**. It acts as a reliable relay between Django and Faktory, ensuring 100% data integrity by silo-ing background jobs within the DB transaction to prevent orphaned tasks.
-
+ *  **[django-faktory-outbox](https://github.com/addonol/django-faktory-outbox)** – **Production-grade Python Package** implementing the **Transactional Outbox Pattern**. It acts as a reliable relay between Django and Faktory, ensuring 100% data integrity by silo-ing background jobs within the DB transaction to prevent orphaned tasks.
+ *  **[python-ram-flow](https://github.com/addonol/python-ram-flow)** - A high-precision, real-time memory flow tracker and stress-tester for Python.
 ---
 
 ### 📂 The "Curation" Philosophy
