@@ -30,7 +30,7 @@
 
 ### Featured Work (The Modern Collection)
 
- *  **[django-faktory-outbox](https://github.com/addonol/django-faktory-outbox)** – Production-grade Python Package implementing the Transactional Outbox Pattern. It acts as a reliable relay between Django and Faktory, ensuring 100% data integrity by silo-ing background jobs within the DB transaction to prevent orphaned tasks.
+ *  **[django-faktory-outbox](https://github.com/addonol/django-faktory-outbox)** – Python package that implements the Transactional Outbox Pattern for Django and Faktory. It acts as a reliable, decoupled relay between your web application and the message broker, ensuring 100% data integrity by staging background jobs inside the primary database transaction to prevent orphaned or duplicate tasks during network splits or broker downtime.
  *  **[python-ram-flow](https://github.com/addonol/python-ram-flow)** - A high-precision, real-time memory flow tracker and stress-tester for Python.
  *  **[winalux](https://github.com/addonol/winalux)** - Secure, isolated, and persistent developer sandboxes powered by rootless Podman. Featuring a macOS-inspired terminal, real-time container telemetry, and inescapable gatekeeper security. 
 ---
